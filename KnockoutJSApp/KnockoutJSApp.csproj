@@ -178,6 +178,8 @@
     <Content Include="Views\Home\NewView.cshtml" />
     <Content Include="Views\Home\View123.cshtml" />
     <Content Include="Views\Shared\BaseLayout.cshtml" />
+    <Content Include="Views\Shared\Add.cshtml" />
+    <Content Include="Views\Home\View.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
